@@ -16,8 +16,10 @@ Based on the previous device usage pattern the the usage pattern of the next com
 ## Usage
 
 Running the file
-export FLASK_APP=2.py
-flask run --host=192.168.1.47
+```sh
+$ export FLASK_APP=2.py
+$ flask run --host=192.168.1.47
+```
 
 Set the ip address to the ip address of the computer connected to the router.
 
