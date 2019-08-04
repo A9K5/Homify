@@ -5,7 +5,12 @@ Based on the previous device usage pattern the the usage pattern of the next com
 
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/27615855/62426670-6c3a7280-b705-11e9-9f1a-94147d537d3f.jpg" alt="Homify">
+  <img src="https://user-images.githubusercontent.com/27615855/62426670-6c3a7280-b705-11e9-9f1a-94147d537d3f.jpg" alt="Homify" width="300">
+</h1>
+
+<h1 align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/27615855/62426727-16b29580-b706-11e9-87fe-1e3a0355af3b.jpg" alt="Homify" width="300">
 </h1>
 
 ## Usage
