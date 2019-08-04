@@ -5,7 +5,7 @@ Based on the previous device usage pattern the the usage pattern of the next com
 
 <h1 align="center">
   <br>
-  <img src="/media/ankur/Software/WorkspaceRaspberryPi/MtechFinalProj.1/blob/IMG_20190705_201047.jpg" alt="Foco" width="160">
+  <img src="https://user-images.githubusercontent.com/27615855/62426670-6c3a7280-b705-11e9-9f1a-94147d537d3f.jpg" alt="Homify">
 </h1>
 
 ## Usage
