@@ -3,6 +3,10 @@ A smart home automation system using machine learning.
 In a basic jist the system is designed to remove the control of the home appliances from the switches to your app.
 Based on the previous device usage pattern the the usage pattern of the next coming days is predicted and the devices then switche ON/OFF the device based on that.
 
+<h1 align="center">
+  <br>
+  <img src="/media/ankur/Software/WorkspaceRaspberryPi/MtechFinalProj.1/blob/IMG_20190705_201047.jpg" alt="Foco" width="160">
+</h1>
 
 ## Usage
 
